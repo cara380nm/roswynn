@@ -20,7 +20,7 @@
 
 ## Appearance
 
-She is a short blonde gnome, wearing a cornflower blue dress, and sturdy boots. She wears a white apron, slightly stained from the preparation of magical reagents. On her back she carries a large backpack.
+She is a short blonde gnome, wearing a cornflower blue dress, and sturdy boots. She wears a white apron, slightly stained from the preparation of magical reagents. She carries a large backpack.
 
 ## Stats
 
@@ -87,4 +87,7 @@ HP: 6
 ### Slots
 1. 2 slots
 
+### Description
 Roswynn lives in Brightcloud tower, near Gloom harbour. A small tower, it holds her father's library and her mother's oratory. She spends most of her time in the former, none in the latter and makes occasional excursions to procure supplies or consult other libraries. Five years ago she returned to find her parents corpses at the foot of the tower, dead from the fall. The crypt stands in the overgrown gardens. Except for rare visitors she lives alone with her semi-tame squirrel Nutty.
+
+
