@@ -2,6 +2,7 @@
   * Race: Forest Gnome
   * Level: 1 Wizard
   * Alignment: Neutral Good
+  * XP: 450
 
 ## Ideals
   * Improving my arcane knowledge and abilities can shape the world for the better.
@@ -52,7 +53,7 @@ HP: 6
   * Feature: Often know where or from whom knowledge can be obtained.
 
 ## Equipment
-  * Pouch: 10GP
+  * Pouch: 16 GP
   * Dagger (1d4 Finesse, Light, Range, Thrown),
   * Backpack
   * Component pouch
