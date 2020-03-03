@@ -1,6 +1,6 @@
 # Roswynn Candyspinner Noctinn Brightcloud
   * Race: Forest Gnome
-  * Level: 1 Wizard
+  * Level: 2 Wizard
   * Alignment: Neutral Good
   * XP: 450
 
@@ -33,7 +33,7 @@ She is a short blonde gnome, wearing a cornflower blue dress, and sturdy boots. 
   * Cha: 15 (+2)
   * Proficiency bonus: +2
 
-HP: 6
+HP: 10
 
   * AC: 10 + dex mod
   * Age: 40
@@ -50,7 +50,10 @@ HP: 6
   * Spell save DC: 8+prof bonus+int mod
   * Spell attack modifier: prof bonus+int mod
   * Arcane recovery: One short rest a day regain spell slots equal to half wizard level
-  * Feature: Often know where or from whom knowledge can be obtained.
+  * Arcane tradition: Illusionist
+  * Illusion savant: Half cost/time scribing illusion spells
+  * Improved Minor illusion: Free cantrip&able to create sound with minor image
+  * Background feature: Often know where or from whom knowledge can be obtained.
 
 ## Equipment
   * Pouch: 16 GP
@@ -64,29 +67,34 @@ HP: 6
   * Quill
   * Ink pen
   * Parchment
-  * Little bag of sand
   * Spellbook
   * A letter from a dead colleage posing a question
   * A set of common clothes
+  * 1st edition: An in depth scientific study into the phenonmen of Cloudguard and potential escape methods, by Gerald "Windy" Windbag Moustache
 
 ## Spells
+
+Can memorise "int mod+wiz lvl" of spells _m_ == memorised
 
 ### Cantrips
   * Minor Illusion (as forest gnome)
   * Chill touch
   * Prestidigitation
   * Shocking grasp
+  * Message (school bonus)
 
 ### 1st Level
-  * Expeditious Retreat
+  * _m_ Expeditious Retreat
   * Find Familiar (rit)
-  * Animate Body Part (Per Mage Hand Press Necromancy Spells pdf)
-  * Charm Person
-  * Hideous Laughter
+  * _m_ Animate Body Part (Per Mage Hand Press Necromancy Spells pdf)
+  * _m_ Charm Person
+  * _m_ Hideous Laughter
   * Unseen Servant (rit)
+  * _m_ Shield
+  * _m_ Colour spray
 
 ### Slots
-1. 2 slots
+1. 3 slots
 
 ### Description
 Roswynn lives in Brightcloud tower, near Gloom harbour. A small tower, it holds her father's library and her mother's oratory. She spends most of her time in the former, none in the latter and makes occasional excursions to procure supplies or consult other libraries. Five years ago she returned to find her parents corpses at the foot of the tower, dead from the fall. The crypt stands in the overgrown gardens. Except for rare visitors she lives alone with her semi-tame squirrel Nutty.
