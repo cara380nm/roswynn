@@ -2,7 +2,7 @@
   * Race: Forest Gnome
   * Level: 2 Wizard
   * Alignment: Neutral Good
-  * XP: 450
+  * XP: 1100
 
 ## Ideals
   * Improving my arcane knowledge and abilities can shape the world for the better.
@@ -56,19 +56,22 @@ HP: 10
   * Background feature: Often know where or from whom knowledge can be obtained.
 
 ## Equipment
-  * Pouch: 16 GP
+  * Pouch: 38 GP
   * Dagger (1d4 Finesse, Light, Range, Thrown),
   * Backpack
   * Component pouch
   * Book of Lore
   * 2xBottle of Ink
   * 2xSmall knife
-  * 10xParchment
+  * 9xParchment
+  * 1xParchment with boat design
+  * 1xMap to temple
   * Quill
   * Ink pen
   * Parchment
   * Spellbook
-  * A letter from a dead colleage posing a question
+  * A letter saying to go to temple of iowera, and say "abracababra"
+  * Map from temple
   * A set of common clothes
   * 1st edition: An in depth scientific study into the phenonmen of Cloudguard and potential escape methods, by Gerald "Windy" Windbag Moustache
 
@@ -86,7 +89,7 @@ Can memorise "int mod+wiz lvl" of spells _m_ == memorised
 ### 1st Level
   * _m_ Expeditious Retreat
   * Find Familiar (rit)
-  * _m_ Animate Body Part (Per Mage Hand Press Necromancy Spells pdf)
+  * _m_ Animate Body Part (Per Mage Hand Press Necromancy Spells pdf) (rit)
   * _m_ Charm Person
   * _m_ Hideous Laughter
   * Unseen Servant (rit)
