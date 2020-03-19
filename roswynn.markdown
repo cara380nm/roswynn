@@ -1,6 +1,6 @@
 # Roswynn Candyspinner Noctinn Brightcloud
   * Race: Forest Gnome
-  * Level: 2 Wizard
+  * Level: 3 Wizard
   * Alignment: Neutral Good
   * XP: 1100
 
@@ -33,7 +33,7 @@ She is a short blonde gnome, wearing a cornflower blue dress, and sturdy boots. 
   * Cha: 15 (+2)
   * Proficiency bonus: +2
 
-HP: 10
+HP: 14
 
   * AC: 10 + dex mod
   * Age: 40
@@ -64,7 +64,7 @@ HP: 10
   * 2xBottle of Ink
   * 2xSmall knife
   * 9xParchment
-  * 1xParchment with boat design
+  * 1xParchment with boat design/escape plans
   * 1xMap to temple
   * Quill
   * Ink pen
@@ -89,15 +89,20 @@ Can memorise "int mod+wiz lvl" of spells _m_ == memorised
 ### 1st Level
   * _m_ Expeditious Retreat
   * Find Familiar (rit)
-  * _m_ Animate Body Part (Per Mage Hand Press Necromancy Spells pdf) (rit)
+  * _m_ Animate Body Part (Per Mage Hand Press Necromancy Spells pdf)
   * _m_ Charm Person
-  * _m_ Hideous Laughter
+  * Hideous Laughter
   * Unseen Servant (rit)
   * _m_ Shield
   * _m_ Colour spray
 
+### 2nd Level
+  * _m_ Phantasmal Force - int save, concentration to 1min, 1d6 per round
+  * _m_ Lesser animate dead (Per Mage Hand Press Necromancy Spells pdf)
+
 ### Slots
-1. 3 slots
+1. 4 slots
+2. 2 slots
 
 ### Description
 Roswynn lives in Brightcloud tower, near Gloom harbour. A small tower, it holds her father's library and her mother's oratory. She spends most of her time in the former, none in the latter and makes occasional excursions to procure supplies or consult other libraries. Five years ago she returned to find her parents corpses at the foot of the tower, dead from the fall. The crypt stands in the overgrown gardens. Except for rare visitors she lives alone with her semi-tame squirrel Nutty.
